@@ -18,7 +18,7 @@ package net.nerth.cartridgecrate.gui;
 
 /**
  *
- * @author nerthbox nerthbox@gmail.com
+ * @author KiwiVirtualSystems
  */
 public class TestBedForm extends javax.swing.JFrame {
 
